@@ -1,2 +1,5 @@
 # go-ducks
-Go gin test
+
+```
+$ go get github.com/gin-gonic/gin
+```
